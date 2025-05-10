@@ -1,0 +1,16 @@
+[
+  {
+    "rut": "12345678-9",
+    "nombre": "Tecnología Global S.A.",
+    "direccion": "Av. Principal 1234, Santiago",
+    "telefono": "+56228887777",
+    "pagina_web": "www.tecnoglobal.cl"
+  },
+  {
+    "rut": "98765432-1",
+    "nombre": "Distribuidora Alimentos Ltda.",
+    "direccion": "Calle Comercial 456, Valparaíso",
+    "telefono": "+56322223333",
+    "pagina_web": "www.distalimentos.com"
+  }
+]

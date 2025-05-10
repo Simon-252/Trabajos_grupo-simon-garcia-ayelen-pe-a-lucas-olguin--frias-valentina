@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "Electrónica",
+    "descripcion": "Dispositivos electrónicos y accesorios"
+  },
+  {
+    "id": 2,
+    "nombre": "Alimentos",
+    "descripcion": "Productos alimenticios y bebidas"
+  }
+]

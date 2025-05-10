@@ -1,0 +1,20 @@
+[
+  {
+    "rut": "11222333-4",
+    "nombre": "María González",
+    "calle": "Los Alamos",
+    "numero": "456",
+    "comuna": "Viña del Mar",
+    "ciudad": "Valparaíso",
+    "telefonos": ["+56988889999", "+56227778888"]
+  },
+  {
+    "rut": "55666777-8",
+    "nombre": "Juan Pérez",
+    "calle": "Las Flores",
+    "numero": "123",
+    "comuna": "Providencia",
+    "ciudad": "Santiago",
+    "telefonos": ["+56955554444"]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "fecha": "2023-05-15T10:30:00",
+    "cliente_rut": "11222333-4",
+    "descuento": 10.0,
+    "monto_final": 809991.0,
+    "detalles": [
+      {
+        "producto_id": 1,
+        "cantidad": 2,
+        "precio_venta": 899990,
+        "subtotal": 1799980
+      }
+    ]
+  }
+]
