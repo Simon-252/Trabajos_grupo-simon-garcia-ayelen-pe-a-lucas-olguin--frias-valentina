@@ -1,3 +1,4 @@
+TP 2 de programacion
 ####Sistema de Gestión de Ventas####
 
 Integrantes: Simón García, Ayelén Peña, Lucas Olguín, Valentina Frías. Ies 0923
